@@ -106,6 +106,13 @@ function adjust_textarea(h) {
   margin-left: auto;
   margin-right: auto;" ></a>
 
+
+<p style="text-align: center; font-size: 15px; margin-bottom: -30px; "><strong>Step 1:</strong> to access the link in another platform you have to paste the link in the link section and you will get a 4 degit code. </p><br>
+<p style="text-align: center; font-size: 15px;  "><strong>Step 2:</strong> to access the link on the other platfrom pase the code in the code section</p>
+<p style="text-align: center; font-size: 15px; ">you can save the code and use it for future uses!</p>
+
+
+
 <div style="text-align: center; ">
 <form action="index.php" class="form-style-8">
 	<input type="text" name="link" placeholder="Enter the link" size="50">
